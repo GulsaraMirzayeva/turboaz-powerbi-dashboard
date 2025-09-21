@@ -39,8 +39,7 @@ Key transformations applied in Power Query:
 ---
 
 ## 📸 Dashboard Preview
-_Add sample screenshot here once uploaded_  
-```markdown
+
 ### 1. Dashboard Overview
 ![Turbo.az Dashboard](./Screenshot_Overview.png)
 
@@ -50,10 +49,12 @@ _Add sample screenshot here once uploaded_
 ### 3. Average Price & Listing Count by Brands
 ![Brands Overview](./Screenshot_Brands.png)
 
+---
 
-🔗 Related Link
-💼 LinkedIn Post → [https://www.linkedin.com/feed/update/urn:li:activity:7375511132586885120/]
+## 🔗 Related Link
+- 💼 LinkedIn Post → [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7375511132586885120/)
 
-🏷 Tags
+---
 
-PowerBI DataAnalytics DataVisualization Dashboard Turboaz Azerbaijan
+## 🏷 Tags
+`Power BI` · `Data Analytics` · `Data Visualization` · `Dashboard` · `Turbo.az` · `Azerbaijan`
