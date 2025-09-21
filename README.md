@@ -44,10 +44,10 @@ Key transformations applied in Power Query:
 ![Turbo.az Dashboard](images/Screenshot_Overview.png)
 
 ### 2. Price vs Age Relation
-![Price vs Age](./Screenshot_Price_Age.png)
+![Price vs Age](images/Screenshot_Price_Age.png)
 
 ### 3. Average Price & Listing Count by Brands
-![Brands Overview](./Screenshot_Brands.png)
+![Brands Overview](images/Screenshot_Brands.png)
 
 ---
 
