@@ -41,7 +41,7 @@ Key transformations applied in Power Query:
 ## 📸 Dashboard Preview
 
 ### 1. Dashboard Overview
-![Turbo.az Dashboard](./Screenshot_Overview.png)
+![Turbo.az Dashboard](images/Screenshot_Overview.png)
 
 ### 2. Price vs Age Relation
 ![Price vs Age](./Screenshot_Price_Age.png)
